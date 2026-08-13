@@ -1,0 +1,346 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DynamoDB Examples",
+          "description": "An Amazon Web Services and DynamoDB community lead repository containing code and examples for developing with and using Amazon DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T17:44:28Z",
+            "owner": "aws-samples",
+            "repo": "aws-dynamodb-examples",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDB Document client cheatsheet",
+          "description": "From the prolific Nader Dabit, this is a handy cheatsheet for using DynamoDB in JavaScript applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-24T19:38:19Z",
+            "owner": "dabit3",
+            "repo": "dynamodb-documentclient-cheat-sheet",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon DynamoDB Design Patterns",
+          "description": "This repo contains sample data models and source code to demonstrate design patterns for Amazon DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-30T10:44:55Z",
+            "owner": "aws-samples",
+            "repo": "amazon-dynamodb-design-patterns",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "Written resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alternator",
+          "description": "a Scylla feature adding compatibility with Amazon DynamoDB. It can be used locally with Docker or in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:39:04Z",
+            "owner": "scylladb",
+            "repo": "scylladb",
+            "stars": 15705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamoose",
+          "description": "An open source modeling tool for Node.js projects, inspired by Mongoose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T20:45:17Z",
+            "owner": "dynamoose",
+            "repo": "dynamoose",
+            "stars": 2248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDB Toolbox",
+          "description": "An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T21:28:50Z",
+            "owner": "dynamodb-toolbox",
+            "repo": "dynamodb-toolbox",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElectroDB",
+          "description": "A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T18:47:47Z",
+            "owner": "tywalch",
+            "repo": "electrodb",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDB OneTable",
+          "description": "DynamoDB library that makes single table designs using Node.js much easier via a high-level type-safe API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-11T01:27:14Z",
+            "owner": "sensedeep",
+            "repo": "dynamodb-onetable",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeDORM",
+          "description": "Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-03T05:37:19Z",
+            "owner": "typedorm",
+            "repo": "typedorm",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typesafe-dynamodb",
+          "description": "Provides type safety and editor type hints to the , , and API (SDK v2) calls which understand the structure of data in your table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:33:21Z",
+            "owner": "sam-goodwin",
+            "repo": "typesafe-dynamodb",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-shell",
+          "description": "A simple CLI for DynamoDB modeled on isql and the MySQL CLIs. a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-14T22:46:08Z",
+            "owner": "awslabs",
+            "repo": "dynamodb-shell",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynoexpr",
+          "description": "TypeScript/JavaScript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-14T09:04:21Z",
+            "owner": "ruicsh",
+            "repo": "dynoexpr",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LucidDynamodb",
+          "description": "A minimalistic wrapper to AWS DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T13:28:25Z",
+            "owner": "dineshsonachalam",
+            "repo": "lucid-dynamodb",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynaglue",
+          "description": "TypeScript library for easily querying and updating against multi-collection/single-table designs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T23:07:38Z",
+            "owner": "chris-armstrong",
+            "repo": "dynaglue",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamode",
+          "description": "An open-source strongly typed modeling tool for TypeScript projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-21T08:56:50Z",
+            "owner": "blazejkustra",
+            "repo": "dynamode",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamo-ts",
+          "description": "DynamoDB + TypeScript made simple - An easier way to interact with DynamoDB using TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-30T21:28:15Z",
+            "owner": "hexlabsio",
+            "repo": "dynamo-ts",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDataTransform",
+          "description": "Dynamo Data Transform is an easy to use data transformation tool for DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-13T08:28:54Z",
+            "owner": "jitsecurity",
+            "repo": "dynamo-data-transform",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDB CSV utility",
+          "description": "A utility that allows CSV import / export to DynamoDB on the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T03:41:55Z",
+            "owner": "danishi",
+            "repo": "dynamodb-csv",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoDB Read Stream",
+          "description": "An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-08-03T03:23:53Z",
+            "owner": "AlexHladin",
+            "repo": "dynamodb-read-stream",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynq",
+          "description": "An analytic query and data processing CLI tool for DynamoDB that uses jq filters to target, transform, and aggregate items, with automatic pagination, table segmentation, and index expansion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-03T14:57:34Z",
+            "owner": "benward2301",
+            "repo": "dynq",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynamoSharp",
+          "description": "An ORM for C# with a focus on single-table design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-30T22:57:46Z",
+            "owner": "ChrixApp",
+            "repo": "DynamoSharp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamodb-size",
+          "description": "JavaScript library for estimating the size of DynamoDB objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-17T18:56:00Z",
+            "owner": "chris-armstrong",
+            "repo": "dynamodb-size-js",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamo Mapper",
+          "description": "A simple mapper for converting to and from DynamoDB AttributeValues and Java POJOs using Jackson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T21:22:04Z",
+            "owner": "autonomouslogic",
+            "repo": "dynamo-mapper",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:07:11.794Z",
+    "original_repository": "alexdebrie/awesome-dynamodb",
+    "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
+    "enhanced_repository": "enhansome/enhansome-dynamodb",
+    "enhanced_repository_description": null,
+    "title": "Awesome DynamoDB with stars"
+  }
+}
