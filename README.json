@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:23:44Z",
+            "last_commit": "2026-08-15T12:49:44Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15704
+            "stars": 15708
           }
         },
         {
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T21:28:50Z",
+            "last_commit": "2026-08-14T21:56:24Z",
             "owner": "dynamodb-toolbox",
             "repo": "dynamodb-toolbox",
             "stars": 2001
@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:33:51Z",
+            "last_commit": "2026-08-15T00:20:21Z",
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
             "stars": 218
@@ -325,7 +325,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-04T21:22:04Z",
+            "last_commit": "2026-08-15T21:14:08Z",
             "owner": "autonomouslogic",
             "repo": "dynamo-mapper",
             "stars": 3
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:44:38.893Z",
+    "last_updated": "2026-08-15T21:40:15.241Z",
     "original_repository": "alexdebrie/awesome-dynamodb",
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
     "enhanced_repository": "enhansome/enhansome-dynamodb",
