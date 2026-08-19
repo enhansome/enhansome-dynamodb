@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10974214,
             "language": "TypeScript",
             "last_commit": "2026-08-05T17:44:28Z",
             "owner": "aws-samples",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214827848,
             "language": null,
             "last_commit": "2021-12-24T19:38:19Z",
             "owner": "dabit3",
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292833605,
             "language": null,
             "last_commit": "2020-12-30T10:44:55Z",
             "owner": "aws-samples",
             "repo": "amazon-dynamodb-design-patterns",
-            "stars": 249
+            "stars": 250
           }
         }
       ],
       "title": "Written resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-18T20:08:13Z",
+            "last_commit": "2026-08-19T10:47:19Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15712
+            "stars": 15714
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16962535,
             "language": "JavaScript",
             "last_commit": "2026-07-28T20:45:17Z",
             "owner": "dynamoose",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223824579,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:20:32Z",
+            "last_commit": "2026-08-19T00:49:33Z",
             "owner": "dynamodb-toolbox",
             "repo": "dynamodb-toolbox",
             "stars": 2001
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246464154,
             "language": "TypeScript",
             "last_commit": "2026-08-09T18:47:47Z",
             "owner": "tywalch",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328555906,
             "language": "TypeScript",
             "last_commit": "2025-09-11T01:27:14Z",
             "owner": "sensedeep",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311486188,
             "language": "TypeScript",
             "last_commit": "2025-10-03T05:37:19Z",
             "owner": "typedorm",
@@ -142,8 +151,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455502135,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:19:54Z",
+            "last_commit": "2026-08-19T00:19:47Z",
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
             "stars": 218
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592256327,
             "language": "C++",
             "last_commit": "2024-11-14T22:46:08Z",
             "owner": "awslabs",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251724553,
             "language": "TypeScript",
             "last_commit": "2024-06-14T09:04:21Z",
             "owner": "ruicsh",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65635235,
             "language": "Python",
             "last_commit": "2026-02-10T13:28:25Z",
             "owner": "dineshsonachalam",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220747676,
             "language": "TypeScript",
             "last_commit": "2025-12-02T23:07:38Z",
             "owner": "chris-armstrong",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516272755,
             "language": "TypeScript",
             "last_commit": "2025-10-21T08:56:50Z",
             "owner": "blazejkustra",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372795625,
             "language": "TypeScript",
             "last_commit": "2025-11-30T21:28:15Z",
             "owner": "hexlabsio",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499310496,
             "language": "JavaScript",
             "last_commit": "2025-02-13T08:28:54Z",
             "owner": "jitsecurity",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462311845,
             "language": "Python",
             "last_commit": "2025-08-23T03:41:55Z",
             "owner": "danishi",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212616371,
             "language": "TypeScript",
             "last_commit": "2021-08-03T03:23:53Z",
             "owner": "AlexHladin",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 880006943,
             "language": "Kotlin",
             "last_commit": "2026-02-03T14:57:34Z",
             "owner": "benward2301",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032179008,
             "language": "C#",
             "last_commit": "2026-06-30T22:57:46Z",
             "owner": "ChrixApp",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266060181,
             "language": "JavaScript",
             "last_commit": "2025-11-17T18:56:00Z",
             "owner": "chris-armstrong",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489435092,
             "language": "Java",
             "last_commit": "2026-08-16T21:11:56Z",
             "owner": "autonomouslogic",
@@ -336,8 +359,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:42:34.957Z",
+    "last_updated": "2026-08-19T12:26:21.913Z",
     "original_repository": "alexdebrie/awesome-dynamodb",
+    "original_repository_id": 227178500,
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
     "enhanced_repository": "enhansome/enhansome-dynamodb",
     "enhanced_repository_description": null,
