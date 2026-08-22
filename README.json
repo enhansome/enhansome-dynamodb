@@ -63,7 +63,7 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-21T20:50:59Z",
+            "last_commit": "2026-08-22T03:20:57Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15719
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 455502135,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T00:21:26Z",
+            "last_commit": "2026-08-22T00:19:50Z",
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
             "stars": 218
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 592256327,
             "language": "C++",
-            "last_commit": "2026-08-19T21:04:38Z",
+            "last_commit": "2026-08-22T00:58:35Z",
             "owner": "awslabs",
             "repo": "dynamodb-shell",
             "stars": 165
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:43:54.806Z",
+    "last_updated": "2026-08-22T21:40:50.254Z",
     "original_repository": "alexdebrie/awesome-dynamodb",
     "original_repository_id": 227178500,
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
