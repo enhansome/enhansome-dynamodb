@@ -63,10 +63,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-24T13:35:15Z",
+            "last_commit": "2026-08-24T15:29:51Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15721
+            "stars": 15722
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 489435092,
             "language": "Java",
-            "last_commit": "2026-08-16T21:11:56Z",
+            "last_commit": "2026-08-24T17:19:39Z",
             "owner": "autonomouslogic",
             "repo": "dynamo-mapper",
             "stars": 3
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:32.234Z",
+    "last_updated": "2026-08-24T21:48:44.341Z",
     "original_repository": "alexdebrie/awesome-dynamodb",
     "original_repository_id": 227178500,
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",

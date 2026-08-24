@@ -62,7 +62,7 @@ Rick's talks:
 
 ## Tools
 
-* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,721 | 🐛 3,579 | 🌐 C++ | 📅 2026-08-24 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,722 | 🐛 3,580 | 🌐 C++ | 📅 2026-08-24 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 * [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,248 | 🐛 126 | 🌐 JavaScript | 📅 2026-07-28 - An open source modeling tool for Node.js projects, inspired by Mongoose.
 * [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) ⭐ 2,001 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-23 - An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 * [ElectroDB](https://github.com/tywalch/electrodb) ⭐ 1,174 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
@@ -81,7 +81,7 @@ Rick's talks:
 * [dynq](https://github.com/benward2301/dynq) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-03 - An analytic query and data processing CLI tool for DynamoDB that uses jq filters to target, transform, and aggregate items, with automatic pagination, table segmentation, and index expansion.
 * [DynamoSharp](https://github.com/ChrixApp/DynamoSharp) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-06-30 - An ORM for C# with a focus on single-table design.
 * [dynamodb-size](https://github.com/chris-armstrong/dynamodb-size-js) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-17 - JavaScript library for estimating the size of DynamoDB objects.
-* [Dynamo Mapper](https://github.com/autonomouslogic/dynamo-mapper) ⭐ 3 | 🐛 3 | 🌐 Java | 📅 2026-08-16 - A simple mapper for converting to and from DynamoDB AttributeValues and Java POJOs using Jackson.
+* [Dynamo Mapper](https://github.com/autonomouslogic/dynamo-mapper) ⭐ 3 | 🐛 4 | 🌐 Java | 📅 2026-08-24 - A simple mapper for converting to and from DynamoDB AttributeValues and Java POJOs using Jackson.
 * [Dynoport](https://www.npmjs.com/package/dynoport) - A CLI tool that allows you to easily import and export data from a specified DynamoDB table.
 * [Dynobase](https://dynobase.dev/) - Handy tool that makes it easy to view and manipulate your tables, generate application code, and more.
 * [NoSQL Workbench For Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html) - A tool similar MySQL workbench that lets you model data and interact with your tables without going to the AWS console.
