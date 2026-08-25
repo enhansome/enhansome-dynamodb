@@ -63,7 +63,7 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-25T05:10:48Z",
+            "last_commit": "2026-08-25T20:14:30Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15723
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:01.870Z",
+    "last_updated": "2026-08-25T21:48:18.801Z",
     "original_repository": "alexdebrie/awesome-dynamodb",
     "original_repository_id": 227178500,
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
