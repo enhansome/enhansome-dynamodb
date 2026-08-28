@@ -16,7 +16,8 @@
             "owner": "aws-samples",
             "repo": "aws-dynamodb-examples",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dabit3",
             "repo": "dynamodb-documentclient-cheat-sheet",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "aws-samples",
             "repo": "amazon-dynamodb-design-patterns",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         }
       ],
       "title": "Written resources"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-27T08:04:36Z",
+            "last_commit": "2026-08-28T04:19:12Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15723
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "dynamoose",
             "repo": "dynamoose",
             "stars": 2248
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 223824579,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:36:51Z",
+            "last_commit": "2026-08-27T22:21:10Z",
             "owner": "dynamodb-toolbox",
             "repo": "dynamodb-toolbox",
             "stars": 2001
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "tywalch",
             "repo": "electrodb",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "sensedeep",
             "repo": "dynamodb-onetable",
             "stars": 715
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "typedorm",
             "repo": "typedorm",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 455502135,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T01:51:34Z",
+            "last_commit": "2026-08-28T03:14:44Z",
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "awslabs",
             "repo": "dynamodb-shell",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "ruicsh",
             "repo": "dynoexpr",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "dineshsonachalam",
             "repo": "lucid-dynamodb",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "chris-armstrong",
             "repo": "dynaglue",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "blazejkustra",
             "repo": "dynamode",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "hexlabsio",
             "repo": "dynamo-ts",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "jitsecurity",
             "repo": "dynamo-data-transform",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "danishi",
             "repo": "dynamodb-csv",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "AlexHladin",
             "repo": "dynamodb-read-stream",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "benward2301",
             "repo": "dynq",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ChrixApp",
             "repo": "DynamoSharp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "chris-armstrong",
             "repo": "dynamodb-size-js",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         },
         {
           "node_type": "item",
@@ -352,14 +374,15 @@
             "owner": "autonomouslogic",
             "repo": "dynamo-mapper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:28:54.060Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:53.472Z",
+    "last_updated": "2026-08-28T05:28:54.060Z",
     "original_repository_info": {
       "archived": false,
       "id": 227178500,
