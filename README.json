@@ -92,11 +92,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T23:52:41Z",
-            "open_issues": 3645,
+            "last_commit": "2026-09-01T22:34:15Z",
+            "open_issues": 3650,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15733,
+            "stars": 15735,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -266,7 +266,7 @@
             "id": 455502135,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T00:52:20Z",
+            "last_commit": "2026-09-01T00:56:59Z",
             "open_issues": 2,
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:40:26.296Z",
+    "last_updated": "2026-09-01T23:23:22.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
