@@ -62,7 +62,7 @@ Rick's talks:
 
 ## Tools
 
-* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,767 | 🐛 3,685 | 🌐 C++ | 📅 2026-09-19 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,769 | 🐛 3,679 | 🌐 C++ | 📅 2026-09-20 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 * [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,249 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-31 - An open source modeling tool for Node.js projects, inspired by Mongoose.
 * [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) ⭐ 2,002 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-15 - An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 * [ElectroDB](https://github.com/tywalch/electrodb) ⭐ 1,176 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
@@ -75,7 +75,7 @@ Rick's talks:
 * [dynaglue](https://github.com/chris-armstrong/dynaglue) ⭐ 80 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-02 - TypeScript library for easily querying and updating against multi-collection/single-table designs.
 * [Dynamode](https://github.com/blazejkustra/dynamode) ⭐ 76 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-21 - An open-source strongly typed modeling tool for TypeScript projects.
 * [Dynamo-ts](https://github.com/hexlabsio/dynamo-ts) ⭐ 55 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-30 - DynamoDB + TypeScript made simple - An easier way to interact with DynamoDB using TypeScript.
-* [DynamoDataTransform](https://github.com/jitsecurity/dynamo-data-transform) ⭐ 51 | 🐛 5 | 🌐 JavaScript | 📅 2025-02-13 - Dynamo Data Transform is an easy to use data transformation tool for DynamoDB.
+* [DynamoDataTransform](https://github.com/jitsecurity/dynamo-data-transform) ⭐ 52 | 🐛 5 | 🌐 JavaScript | 📅 2025-02-13 - Dynamo Data Transform is an easy to use data transformation tool for DynamoDB.
 * [DynamoDB CSV utility](https://github.com/danishi/dynamodb-csv) ⭐ 23 | 🐛 11 | 🌐 Python | 📅 2025-08-23 - A utility that allows CSV import / export to DynamoDB on the command line.
 * [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream) ⚠️ Archived - An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
 * [dynq](https://github.com/benward2301/dynq) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-03 - An analytic query and data processing CLI tool for DynamoDB that uses jq filters to target, transform, and aggregate items, with automatic pagination, table segmentation, and index expansion.
@@ -100,4 +100,4 @@ Rick's talks:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
