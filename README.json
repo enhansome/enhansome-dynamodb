@@ -92,8 +92,8 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T20:30:59Z",
-            "open_issues": 3743,
+            "last_commit": "2026-10-02T16:27:53Z",
+            "open_issues": 3745,
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15782,
@@ -122,7 +122,7 @@
             "language": "JavaScript",
             "license": "Unlicense",
             "last_commit": "2026-08-31T19:45:49Z",
-            "open_issues": 129,
+            "open_issues": 128,
             "owner": "dynamoose",
             "repo": "dynamoose",
             "stars": 2249,
@@ -586,7 +586,7 @@
             "id": 489435092,
             "language": "Java",
             "license": "MIT-0",
-            "last_commit": "2026-10-01T23:08:50Z",
+            "last_commit": "2026-10-02T23:08:03Z",
             "open_issues": 6,
             "owner": "autonomouslogic",
             "repo": "dynamo-mapper",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:53:55.062Z",
+    "last_updated": "2026-10-03T00:33:13.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
