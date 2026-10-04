@@ -62,7 +62,7 @@ Rick's talks:
 
 ## Tools
 
-* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,782 | 🐛 3,755 | 🌐 C++ | 📅 2026-10-03 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,782 | 🐛 3,767 | 🌐 C++ | 📅 2026-10-04 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 * [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,249 | 🐛 128 | 🌐 JavaScript | 📅 2026-08-31 - An open source modeling tool for Node.js projects, inspired by Mongoose.
 * [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) ⭐ 2,002 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 - An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 * [ElectroDB](https://github.com/tywalch/electrodb) ⭐ 1,178 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
@@ -100,4 +100,4 @@ Rick's talks:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
