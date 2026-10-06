@@ -62,13 +62,13 @@ Rick's talks:
 
 ## Tools
 
-* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,782 | 🐛 3,767 | 🌐 C++ | 📅 2026-10-04 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,781 | 🐛 3,781 | 🌐 C++ | 📅 2026-10-05 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
 * [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,249 | 🐛 128 | 🌐 JavaScript | 📅 2026-08-31 - An open source modeling tool for Node.js projects, inspired by Mongoose.
 * [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) ⭐ 2,002 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 - An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 * [ElectroDB](https://github.com/tywalch/electrodb) ⭐ 1,178 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
 * [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) ⭐ 716 | 🐛 21 | 🌐 TypeScript | 📅 2025-09-11 - DynamoDB library that makes single table designs using Node.js much easier via a high-level type-safe API.
 * [TypeDORM](https://github.com/typedorm/typedorm) ⭐ 515 | 🐛 75 | 🌐 TypeScript | 📅 2025-10-03 - Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
-* [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) ⭐ 219 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-03 - Provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
+* [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) ⭐ 219 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-06 - Provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
 * [dynamodb-shell](https://github.com/awslabs/dynamodb-shell) ⭐ 167 | 🐛 2 | 🌐 C++ | 📅 2026-09-15 - A simple CLI for DynamoDB modeled on isql and the MySQL CLIs. a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.
 * [Dynoexpr](https://github.com/tuplo/dynoexpr) ⭐ 128 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-14 - TypeScript/JavaScript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
 * [LucidDynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) ⭐ 110 | 🐛 18 | 🌐 Python | 📅 2026-02-10 - A minimalistic wrapper to AWS DynamoDB.
@@ -79,7 +79,7 @@ Rick's talks:
 * [DynamoDB CSV utility](https://github.com/danishi/dynamodb-csv) ⭐ 23 | 🐛 11 | 🌐 Python | 📅 2025-08-23 - A utility that allows CSV import / export to DynamoDB on the command line.
 * [DynamoDB Read Stream](https://github.com/AlexHladin/dynamodb-read-stream) ⚠️ Archived - An open-source tool for reading data chunk by chunk. This tool is created for handling DynamoDB limitation for one response (1 MB).
 * [dynq](https://github.com/benward2301/dynq) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-03 - An analytic query and data processing CLI tool for DynamoDB that uses jq filters to target, transform, and aggregate items, with automatic pagination, table segmentation, and index expansion.
-* [DynamoSharp](https://github.com/ChrixApp/DynamoSharp) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-09-18 - An ORM for C# with a focus on single-table design.
+* [DynamoSharp](https://github.com/ChrixApp/DynamoSharp) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-10-05 - An ORM for C# with a focus on single-table design.
 * [dynamodb-size](https://github.com/chris-armstrong/dynamodb-size-js) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-17 - JavaScript library for estimating the size of DynamoDB objects.
 * [Dynamo Mapper](https://github.com/autonomouslogic/dynamo-mapper) ⭐ 3 | 🐛 6 | 🌐 Java | 📅 2026-10-02 - A simple mapper for converting to and from DynamoDB AttributeValues and Java POJOs using Jackson.
 * [Dynoport](https://www.npmjs.com/package/dynoport) - A CLI tool that allows you to easily import and export data from a specified DynamoDB table.
@@ -100,4 +100,4 @@ Rick's talks:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
