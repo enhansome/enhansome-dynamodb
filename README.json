@@ -92,11 +92,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T23:21:36Z",
-            "open_issues": 2663,
+            "last_commit": "2026-11-03T23:56:41Z",
+            "open_issues": 2655,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15817,
+            "stars": 15820,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -179,7 +179,7 @@
             "open_issues": 112,
             "owner": "tywalch",
             "repo": "electrodb",
-            "stars": 1181,
+            "stars": 1180,
             "topics": [
               "aws",
               "dynamodb",
@@ -266,7 +266,7 @@
             "id": 455502135,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T00:28:16Z",
+            "last_commit": "2026-11-04T00:28:39Z",
             "open_issues": 2,
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
@@ -586,8 +586,8 @@
             "id": 489435092,
             "language": "Java",
             "license": "MIT-0",
-            "last_commit": "2026-11-02T23:09:16Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-03T05:17:57Z",
+            "open_issues": 3,
             "owner": "autonomouslogic",
             "repo": "dynamo-mapper",
             "stars": 3,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:57:25.173Z",
+    "last_updated": "2026-11-04T01:28:43.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
