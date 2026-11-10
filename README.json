@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "dabit3",
             "repo": "dynamodb-documentclient-cheat-sheet",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "aws",
               "dynamodb",
@@ -92,11 +92,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T19:44:32Z",
-            "open_issues": 2637,
+            "last_commit": "2026-11-09T22:38:51Z",
+            "open_issues": 2650,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15821,
+            "stars": 15825,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -121,8 +121,8 @@
             "id": 16962535,
             "language": "JavaScript",
             "license": "Unlicense",
-            "last_commit": "2026-11-08T18:22:28Z",
-            "open_issues": 184,
+            "last_commit": "2026-11-09T03:40:02Z",
+            "open_issues": 185,
             "owner": "dynamoose",
             "repo": "dynamoose",
             "stars": 2249,
@@ -266,7 +266,7 @@
             "id": 455502135,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T00:31:56Z",
+            "last_commit": "2026-11-10T00:27:43Z",
             "open_issues": 2,
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:00:01.906Z",
+    "last_updated": "2026-11-10T03:38:34.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
