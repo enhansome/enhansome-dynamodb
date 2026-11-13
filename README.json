@@ -15,7 +15,7 @@
             "id": 10974214,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-02T23:55:03Z",
+            "last_commit": "2026-11-12T21:57:58Z",
             "open_issues": 25,
             "owner": "aws-samples",
             "repo": "aws-dynamodb-examples",
@@ -92,11 +92,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T01:48:10Z",
-            "open_issues": 2641,
+            "last_commit": "2026-11-13T01:56:41Z",
+            "open_issues": 2648,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15829,
+            "stars": 15833,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -179,7 +179,7 @@
             "open_issues": 112,
             "owner": "tywalch",
             "repo": "electrodb",
-            "stars": 1180,
+            "stars": 1181,
             "topics": [
               "aws",
               "dynamodb",
@@ -266,7 +266,7 @@
             "id": 455502135,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T00:29:42Z",
+            "last_commit": "2026-11-13T00:29:33Z",
             "open_issues": 2,
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:18:41.146Z",
+    "last_updated": "2026-11-13T01:56:44.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
@@ -617,7 +617,7 @@
       "open_issues": 14,
       "owner": "alexdebrie",
       "repo": "awesome-dynamodb",
-      "stars": 1831,
+      "stars": 1830,
       "topics": []
     },
     "original_repository_sha": "adbb35f21d6bcf681ad5b46424911c007e106e26",
