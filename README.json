@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "aws-samples",
             "repo": "aws-dynamodb-examples",
-            "stars": 605,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.060Z"
@@ -92,11 +92,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T02:58:50Z",
-            "open_issues": 2671,
+            "last_commit": "2026-11-18T01:56:42Z",
+            "open_issues": 2667,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15834,
+            "stars": 15837,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -125,7 +125,7 @@
             "open_issues": 193,
             "owner": "dynamoose",
             "repo": "dynamoose",
-            "stars": 2250,
+            "stars": 2249,
             "topics": [
               "amazon-dynamodb",
               "dynamodb",
@@ -266,7 +266,7 @@
             "id": 455502135,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T00:29:37Z",
+            "last_commit": "2026-11-18T00:30:09Z",
             "open_issues": 2,
             "owner": "sam-goodwin",
             "repo": "typesafe-dynamodb",
@@ -288,7 +288,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T15:03:17Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "awslabs",
             "repo": "dynamodb-shell",
             "stars": 166,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:59:20.684Z",
+    "last_updated": "2026-11-18T02:57:37.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources for learning about modeling, operating, and using Amazon DynamoDB",
