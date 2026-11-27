@@ -62,14 +62,14 @@ Rick's talks:
 
 ## Tools
 
-* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,846 | 🐛 2,671 | 🌐 C++ | 📅 2026-11-26 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
-* [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,247 | 🐛 195 | 🌐 JavaScript | 📅 2026-11-16 - An open source modeling tool for Node.js projects, inspired by Mongoose.
+* [Alternator](https://github.com/scylladb/scylla/blob/master/docs/alternator/alternator.md) ⭐ 15,847 | 🐛 2,861 | 🌐 C++ | 📅 2026-11-27 - a Scylla feature adding compatibility with Amazon DynamoDB. It can be used [locally with Docker](https://hub.docker.com/r/scylladb/scylla/) or in production.
+* [Dynamoose](https://github.com/dynamoose/dynamoose/) ⭐ 2,247 | 🐛 209 | 🌐 JavaScript | 📅 2026-11-26 - An open source modeling tool for Node.js projects, inspired by Mongoose.
 * [DynamoDB Toolbox](https://github.com/jeremydaly/dynamodb-toolbox) ⭐ 1,999 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-21 - An open source project from Jeremy Daly that provides a number of helpful utilities for working with single-table designs in JavaScript. Unofficial winner of the 2019 Best Logo in Open Source award.
 * [ElectroDB](https://github.com/tywalch/electrodb) ⭐ 1,180 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of having multiple entities and complex hierarchical relationships in a single DynamoDB table.
 * [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) ⚠️ Archived - DynamoDB library that makes single table designs using Node.js much easier via a high-level type-safe API.
 * [TypeDORM](https://github.com/typedorm/typedorm) ⭐ 515 | 🐛 74 | 🌐 TypeScript | 📅 2025-10-03 - Strongly typed object relational mapper built with single-table-design in mind, and inspired by TypeORM.
-* [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) ⭐ 219 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-26 - Provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
-* [dynamodb-shell](https://github.com/awslabs/dynamodb-shell) ⭐ 167 | 🐛 0 | 🌐 C++ | 📅 2026-11-26 - A simple CLI for DynamoDB modeled on isql and the MySQL CLIs. a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.
+* [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) ⭐ 219 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-27 - Provides type safety and editor type hints to the `getItem`, `putItem`, `deleteItem` and `query` API (SDK v2) calls which understand the structure of data in your table.
+* [dynamodb-shell](https://github.com/awslabs/dynamodb-shell) ⭐ 167 | 🐛 0 | 🌐 C++ | 📅 2026-11-27 - A simple CLI for DynamoDB modeled on isql and the MySQL CLIs. a simple CLI for DynamoDB modeled on isql, and the MySQL CLIs.
 * [Dynoexpr](https://github.com/tuplo/dynoexpr) ⭐ 128 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-14 - TypeScript/JavaScript expression builder library which immensely simplifies the DynamoDB.DocumentClient syntax.
 * [LucidDynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) ⭐ 110 | 🐛 18 | 🌐 Python | 📅 2026-02-10 - A minimalistic wrapper to AWS DynamoDB.
 * [dynaglue](https://github.com/chris-armstrong/dynaglue) ⭐ 79 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-02 - TypeScript library for easily querying and updating against multi-collection/single-table designs.
@@ -100,4 +100,4 @@ Rick's talks:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
